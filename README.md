@@ -23,7 +23,7 @@ You can get exiftool from here: http://owl.phy.queensu.ca/~phil/exiftool/
 
 #### TEST
   Copy your original image and run the script on the copy
-  `cp FILENAME test.jpg; exifclean test.jpg; exifclean test.jpg`
+  `cp FILENAME test.jpg; exifclean test.jpg; exitool test.jpg`
 
 #### Notes
   * I never use this on RAW files, only on the finalized versions exported from my raw editor,
